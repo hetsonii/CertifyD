@@ -1,0 +1,7 @@
+chardet==5.2.0
+pillow==10.2.0
+reportlab==4.1.0
+setuptools==59.6.0
+colorama==0.4.6
+pyfiglet==1.0.2
+termcolor==2.4.0
